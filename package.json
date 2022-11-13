@@ -9,11 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "13.0.1",
+    "next": "^13.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.6.0",
+<<<<<<< HEAD
     "sass": "^1.55.0"
+=======
+    "sass": "^1.55.0",
+    "stripe": "^10.17.0"
+>>>>>>> afb4127ad2d0799acac84a4ac06f94519c8e88a3
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
